@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤔 As i say in my description, I'm not sure I like programming. Now I think that is kind of late to turn back, so I'll continue for now.
+📫 I will probably never update this read me, but that's okay.
+⚡ I'll probably go cry myself to sleep. Bye!
